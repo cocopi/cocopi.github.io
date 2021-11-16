@@ -1,0 +1,30 @@
+.container{background-color: rgb(255, 194, 81);
+    /*How To Make Orange Juice*/
+    display: flex;
+    justify-content:space-around;
+    align-items:center;}
+
+    .logo {
+        color:rgb(255, 227, 195);
+        font-size: 32px;
+    }
+
+    .menu{
+        display:flex;
+        justify-content:space-around;
+        width: 40%;
+        color:rgb(255, 255, 255);
+    }
+.menu li{
+    list-style: none;
+} 
+  .login {
+      color:rgb(255, 255, 255);
+      text-decoration:none;
+      background-color: rgb(88, 8, 163);
+      display:inline-block;
+      padding: 12px 30px;
+      border-radius: 20px;
+    }
+  
+  
